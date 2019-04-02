@@ -9,8 +9,8 @@ In graph theory and network analysis, indicators of centrality identify the most
 
 clone the repository 
 
-`git clone `
+`git clone https://github.com/pragyanmehrotra/Betweeness-Centrlality.git`
 
 the code has no external dependencies although make sure to edit the code accordingly in order to make it so to take your custom graph as input otherwise the code will work on the default values provided in it and feel free to remove any debugging statements as necessary.
 
-`python `
+`python betweenessCentrality.py`
